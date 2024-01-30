@@ -1,0 +1,536 @@
+.scroll{
+    gap: 45px;
+    margin-top: 20px;
+}
+/* .stole{
+    padding-left: 135px;
+} */
+.stole h1{
+    font-weight: 500;
+    font-size: 45px;
+    color: rgb(255, 255, 255);   
+    padding-top: 120px;
+}
+.stole p{
+    color: rgb(255, 255, 255);  
+    padding-bottom: 20px;
+
+}
+.new1{
+    font-weight: 400;
+    font-size: 17px;
+    background-color: rgb(64, 78, 113);
+    padding: 14px 45px;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);   
+    border: none;
+
+}
+.new1:hover{
+    background-color: rgb(24, 104, 221);
+}
+.new2{
+    
+    padding: 14px 45px;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);   
+    border: 2px solid white !important;
+    background-color:transparent !important;
+}
+.new2:hover{
+    background-color: rgb(24, 104, 221)!important;
+}
+
+
+    
+    
+
+/* .clone{
+    padding-left: 135px;
+} */
+.clone h1{
+    font-weight: 500;
+    font-size: 45px;
+    color: rgb(255, 255, 255);   
+    padding-top: 120px;
+
+}
+.clone p{
+    color: rgb(255, 255, 255);  
+    padding-bottom: 20px;
+
+}
+.clone button{
+    font-weight: 400;
+    font-size: 17px;
+    background-color: rgb(64, 78, 113);
+    padding: 14px 45px;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);   
+    border: none;
+
+}
+/* .brown{
+    padding-left: 135px;
+} */
+.brown h1{
+    font-weight: 500;
+    font-size: 45px;
+    color: rgb(255, 255, 255);   
+    padding-top: 120px;
+
+}
+.brown p{
+    color: rgb(255, 255, 255);  
+    padding-bottom: 20px;
+
+}
+.brown button{
+    font-weight: 400;
+    font-size: 17px;
+    background-color: rgb(64, 78, 113);
+    padding: 14px 45px;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);   
+    border: none;
+}.skull h3{
+    color: #ff1d4d;
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 100px;
+}
+.skull h2{
+    color: #323850;
+    font-size: 36px;  
+    padding-bottom:20px;
+}
+.skull strong{
+    color: #707070;
+    
+}
+.skull ul li{
+    list-style: none;
+}
+.fa-check{
+    color: #eb1a44;
+}
+.picture img{
+    margin-top: 165px;
+   
+}
+.skull{
+    padding-top: 50px;
+}
+.dark h3{
+    text-align: center;
+    color: #8c8c8c;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 100px;
+}
+.dark h2{
+    text-align: center;
+    color: #1e1e1e;
+     font-size: 40px;
+     font-weight: 600;
+
+}
+.dark h2 span{
+    color: #eb1a44 !important;
+}
+.dark p{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.data{
+    margin-bottom: 25px;
+}
+.doc{
+    margin-bottom: 25px;
+}
+.doc h5{
+    padding-top: 25px;
+}
+.data h5{
+    padding-top: 25px;
+
+}
+.doc a{
+    text-decoration: none;
+    color: #eb1a44 !important;
+    font-weight: 700;
+}
+.data a{
+    text-decoration: none;
+    color: #eb1a44 !important;
+    font-weight: 700;
+}
+.docter h3{
+    font-size:25px;
+    font-weight: 400;
+    padding-top: 50px;
+    color: white;
+}
+.docter h2{
+    font-weight:600;
+    font-size:38px ;
+    padding-bottom: 50px;
+    color: white;
+}
+.dior{
+    background-image: linear-gradient(250deg, #eb1a44 0%, #404e71 100%);
+    padding-bottom: 80px;
+} 
+
+.call1{
+    font-size: 20px;
+    background-color: transparent!important;
+}
+.call2{
+    font-size: 20px;
+    background-color: transparent!important;
+    
+}
+.call3{
+    font-size: 20px;
+    background-color: transparent!important;
+    
+}
+.call4{
+    font-size: 20px;
+    background-color: transparent!important;
+    
+}
+.bbb:hover{
+    background-color:#ff0550!important;
+    color: #ffffff!important;
+}
+.doll h3{
+    color: #8c8c8c;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 100px;
+}
+.doll h2{
+    color: #1e1e1e;
+    font-size: 40px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+.doll h2 span{
+    color: #eb1a44 !important;
+}
+.doll p{
+    padding-bottom: 60px;
+}
+.plat ul li{
+    list-style: none;
+}
+.div1{
+    color: #FF4867;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    
+}
+.drive{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.drive img{
+    width:40%;
+    
+}
+.drake{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.deep{
+    text-align: center;
+}
+.deep h3{
+    font-size:25px;
+    font-weight: 400;
+    padding-top: 50px;
+    color: white;
+
+}
+.deep h2{
+    color: #1e1e1e;
+    font-size: 40px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    color: white;
+
+}
+.deep h2 span{
+    color: #eb1a44 !important;
+
+}
+.deep p{
+    color: white;
+    padding-bottom: 25px;
+}
+.dim{
+    text-align: center;
+}
+.dim h3{
+    color: #8c8c8c;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 100px;
+
+}
+.dim h2{
+    color: #1e1e1e;
+    font-size: 40px;
+    font-weight: 600;
+    padding-bottom: 50px;
+}
+.dim h2 span{
+    color: #eb1a44 !important;
+
+}
+.card1{
+    padding-bottom: 100px;
+}
+.card1 a{
+    text-decoration: none !important;
+}
+.peach{
+    text-align: center;
+}
+.peach h4{
+    font-size: 38px;
+    font-weight: 600;
+    color:#ffffff;
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+.peach p{
+    color:#ffffff;
+    padding-bottom: 30px;
+}
+.peach button{
+    background-color: #404e71;
+    border-radius: 50px;
+    padding: 15px 50px;
+    border:2px solid white;
+    
+    
+}
+.peach button a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.direct{
+    text-align: center;
+    color: #ffffff;
+    
+}
+.direct a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.direct h4{
+    font-size:24px;
+    /* padding-top:40px; */
+}
+.dial{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.dial p{
+    color: white;
+}
+.dial h3{
+    margin-bottom: 50px;
+    color: white;
+}
+.dial ul li{
+    list-style: none;
+    color: white;
+}
+.dial a{
+    text-decoration: none;
+    color: white;
+}
+.fa-chevron-right{
+    color: #eb1a44;
+    font-size: 18px;
+}
+.Quad p{
+    padding-bottom: 30px;
+    padding-left: 5%;
+    
+
+}
+.Quad h4{
+    padding-left: 5%;
+}
+.pro{
+    text-align: center;
+}
+.pro h3{
+    color: #ff1d4d;
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 60px;
+}
+.pro h2{
+    color: #323850;
+    font-size: 42px;
+    padding-bottom: 80px;
+    
+}
+.pro h2 span{
+    color: #eb1a44 !important;
+}
+.class1{
+    background-image: url(https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-baskidoor-2019-12-03-16_26_35-scaled.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: bottom;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+.class1:hover{
+    background-position: top;
+    transition: 2s;
+    
+}
+.class2{
+    background-image: url(https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-eventmatches-2019-12-03-16_29_39-scaled.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: bottom;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.class2:hover{
+    background-position: top;
+    transition: 2s;
+}
+.class3{
+    background-image: url(https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-go4trip-net-2019-12-04-10_35_55-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: bottom;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.class3:hover{
+    background-position: top;
+    transition: 2s;
+}
+.class4{
+    background-image: url(https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-wbec-clouddigitalmarketing-2019-12-03-16_31_45-scaled.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: bottom;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.class4:hover{
+    background-position: top;
+    transition: 2s;
+
+}
+.class5{
+    background-image: url(https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-brandedonline-2019-12-04-10_52_01-scaled.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: bottom;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.class5:hover{
+    background-position: top;
+    transition: 2s;
+
+}
+.footer p{
+    color: white;
+}
+.footer i{
+    color: white;
+    
+   
+}
+.tyui{
+    margin-top: -30px;
+}
+/* .hhhh{
+    display: flex;
+    justify-content: space-evenly;
+} */
+
+
+
+
+
+
+
+
+
+.box1 {
+    background-image: url("https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-baskidoor-2019-12-03-16_26_35-scaled.png");
+    background-size: cover;
+    background-position: top;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  .box1:hover{
+    background-position: bottom;
+    transition:2s;
+  }
+
+  .box2 {
+    background-image: url("https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-eventmatches-2019-12-03-16_29_39-scaled.png");
+    background-size: cover;
+    background-position: top;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  .box2:hover{
+    background-position: bottom;
+    transition:2s;
+  }
+
+  .box3 {
+    background-image: url("https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-go4trip-net-2019-12-04-10_35_55-scaled.jpg");
+    background-size: cover;
+    background-position: top;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+  }
+
+  .box3:hover{
+    background-position: bottom;
+    transition:2s;
+  }
+
+  .box4 {
+    background-image: url("https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-wbec-clouddigitalmarketing-2019-12-03-16_31_45-scaled.png");
+    background-size: cover;
+    background-position: top;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  .box4:hover{
+    background-position: bottom;
+    transition:2s;
+  }
+
+  .box5 {
+    background-image: url("https://www.gnisoftsolutions.com/wp-content/uploads/2019/12/screencapture-brandedonline-2019-12-04-10_52_01-scaled.png");
+    background-size: cover;
+    background-position: top;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  .box5:hover{
+    background-position: bottom;
+    transition:2s;
+  }
+  .dot{
+    font-weight: bold;
+  }
